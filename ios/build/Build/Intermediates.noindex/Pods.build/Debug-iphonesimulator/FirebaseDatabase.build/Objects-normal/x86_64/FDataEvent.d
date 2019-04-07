@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FDataEvent.m \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FDataEvent.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataSnapshot.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseReference.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabaseQuery.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDataEventType.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRDatabase.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRMutableData.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRTransactionResult.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Public/FIRServerValue.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/Tuples/FTupleUserCallback.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FTypedefs.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEvent.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FEventRegistration.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/View/FChange.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FIndexedNode.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/FNamedNode.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FIRDatabaseQuery_Private.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepo.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FPersistentConnection.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Realtime/FConnection.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Realtime/FWebSocketConnection.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/third_party/SocketRocket/FSRWebSocket.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoManager.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseDatabase/Firebase/Database/Api/FIRDatabaseConfig.h

@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native/React/../third-party/folly-2018.10.22.00/folly/detail/Demangle.h

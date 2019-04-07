@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FIRFunctions.m \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/Public/FIRFunctions.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FIRFunctions+Internal.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseAuthInterop/FIRAuthInterop.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRComponentRegistrant.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/Public/FIRError.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FIRHTTPSCallable+Internal.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/Public/FIRHTTPSCallable.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNContext.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNError.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNSerializer.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseFunctions/Functions/FirebaseFunctions/FUNUsageValidation.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRAppInternal.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrors.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseCore/Firebase/Core/Private/FIRErrorCode.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h

@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingAnalytics.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRComponentRegistrant.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRCoreConfigurable.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h

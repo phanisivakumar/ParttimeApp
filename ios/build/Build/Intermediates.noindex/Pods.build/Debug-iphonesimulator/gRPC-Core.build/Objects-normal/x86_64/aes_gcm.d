@@ -1,0 +1,46 @@
+dependencies: \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/gRPC-Core/src/core/tsi/alts/crypt/aes_gcm.cc \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Target\ Support\ Files/gRPC-Core/gRPC-Core-prefix.pch \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/support/port_platform.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/port_platform.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/gRPC-Core/src/core/tsi/alts/crypt/gsec.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/grpc.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/status.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/status.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/byte_buffer.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/byte_buffer.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/grpc_types.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/compression_types.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/gpr_types.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/slice.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/gpr_slice.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/slice_buffer.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/slice.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/support/sync.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/sync.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/sync_generic.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/atm.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/atm_gcc_atomic.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/sync_posix.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/connectivity_state.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/impl/codegen/propagation_bits.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/support/time.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/bio.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/base.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/is_boringssl.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/opensslconf.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/buffer.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/buf.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/err.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/ex_data.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/stack.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/type_check.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/thread.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/evp.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/aead.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/base64.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/cipher.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/digest.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/nid.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Public/BoringSSL/openssl/hmac.h \
+  /Users/phania/Documents/Projects/Starterr/starterr/ios/Pods/Headers/Private/gRPC-Core/grpc/support/alloc.h

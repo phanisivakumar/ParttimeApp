@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Apr 07 12:06:03 EDT 2019
+#Sun Apr 07 12:57:19 EDT 2019
 56.path=lib/arm64-v8a/libjscexecutor.so
 5.base=/Users/phania/Documents/Projects/Starterr/starterr/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/Users/phania/Documents/Projects/Starterr/starterr/android/app/build/intermediates/transforms/dexMerger/debug/0
