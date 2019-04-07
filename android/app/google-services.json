@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "168609212746",
+    "firebase_url": "https://starterr-cc42a.firebaseio.com",
+    "project_id": "starterr-cc42a",
+    "storage_bucket": "starterr-cc42a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168609212746:android:73e38bb2d0916480",
+        "android_client_info": {
+          "package_name": "com.starterrpvtltd.starterr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23hmTnkYR3vnAEdNZcHPFjgarr0kqa-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168609212746-7p4ggrq34054glnn95vs955u7rv82sdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168609212746-4gk60n9obuc7vko79dnkhhrparcq14b6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.starterrpvtltd.starterr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

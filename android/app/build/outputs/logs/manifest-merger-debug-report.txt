@@ -1,0 +1,773 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a58c99ba1728b03f47bda3b6a93ab13f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/9d5bb98d0576e0b5a2e2ff938ee78248/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-invites:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.6.aar/4b017b1ac552231b1820be5a58174bd6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/26657ad264e336c294ae5d33a0b27d43/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/e5f367762fded85a2c9ea42c91667811/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/758dfaeac4a1c441c57bc9c96273ac0e/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/84f8c8606c2e2dfa1853cbe4d1d5e870/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/d0591cfa7839d242cba9afec4d5be259/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/72ea4d0d3ba72e8810e49217852f15e2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/0d2ae4a0c609ceb8f7c4c17ecc0f5398/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/90a5b7df8c3f9b80d1228dd67bcc6ebc/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f0ab53897a65f2615ec3d224730faf39/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/cb8d52411a20da0cfee24587d72c34f2/AndroidManifest.xml:17:1-22:12
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:2:1-52:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/43352bca782c2b8cf6edb478d969944e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/81fd0c07f5bf22955408119846fd7fc8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a51db4568b2edf2fb0427e36bc89d9b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b69a2cb2d9b39532b4360e950ae0b758/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e5a80018c8f57fdd9d40926de4555ef3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/620cc62034d90d40e9449cd482eaaa33/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/6473916bfef3784644ec746beb7b3b37/AndroidManifest.xml:2:1-13:12
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/0eb7de2a109b7bc9f885c68468f4ca1b/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/phania/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/aa9af0d72175833ba8c98b1361535c50/AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6c772f768247e0912b012c9c073d86d6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/888113ac76c01b5efa58d84a7994a1e4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/fdc0f27fe94e2235a4cebb915c535bce/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/8dcbfd7f6a02af2f87d2ae919a5f1410/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/d2da56c7e1a0d99731a0e6a4be6bfe3f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/1da37d0b0520c957a71bf30c2be315ad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6cf2a233f6742a8f1977b3e23cfe95a0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/862b66c4b1f4ff0c1d5a097230d56b3f/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/0115e7405ea729913c34d8cde4fe8dd6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/649c103ac28826d00cc6f4b896503d2e/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/48a90c21034cadecafa7242ac6f338ea/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/phania/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/e59ba09b19936a04d8114338a06cc117/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:22:1-33:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e87c79e50f0b685b24f6d066bce106b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cef90f94ecd5cdb8770fe717769e24de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74108e8096570d71f840de92c05abccf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cee524157b2a9c9c50543e0423d6ef15/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d3d09f5253a18378b25cb9fb0895f640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ffe7ba1356ce77917418063827028a98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a9260c3e955c0870485482dfe55ab03d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/64c36b5752c853a7a74e3d300f182738/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/258f02f76251474e5b1a8eafa850f9ef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/b2b7655c12ee29fed8492b16514c80e0/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ac980f1b666bb9386e4d9169d962cafd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/75a69a73d228e4c8197d8c0c3d538ad3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c4021abf2aa79f9873b7529655934cda/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a979cc8d2c2a366f01ef47a705ee2e49/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:2:5-42
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/26657ad264e336c294ae5d33a0b27d43/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/26657ad264e336c294ae5d33a0b27d43/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/649c103ac28826d00cc6f4b896503d2e/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/649c103ac28826d00cc6f4b896503d2e/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/48a90c21034cadecafa7242ac6f338ea/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/48a90c21034cadecafa7242ac6f338ea/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/phania/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/e59ba09b19936a04d8114338a06cc117/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/phania/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/e59ba09b19936a04d8114338a06cc117/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:22-75
+application
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:9:5-36:19
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:13:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:27:5-39:19
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:27:5-39:19
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/9d5bb98d0576e0b5a2e2ff938ee78248/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/9d5bb98d0576e0b5a2e2ff938ee78248/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-invites:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.6.aar/4b017b1ac552231b1820be5a58174bd6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-invites:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.6.aar/4b017b1ac552231b1820be5a58174bd6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/758dfaeac4a1c441c57bc9c96273ac0e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/758dfaeac4a1c441c57bc9c96273ac0e/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/84f8c8606c2e2dfa1853cbe4d1d5e870/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/84f8c8606c2e2dfa1853cbe4d1d5e870/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/d0591cfa7839d242cba9afec4d5be259/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/d0591cfa7839d242cba9afec4d5be259/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/72ea4d0d3ba72e8810e49217852f15e2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/72ea4d0d3ba72e8810e49217852f15e2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/0d2ae4a0c609ceb8f7c4c17ecc0f5398/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/0d2ae4a0c609ceb8f7c4c17ecc0f5398/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f0ab53897a65f2615ec3d224730faf39/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f0ab53897a65f2615ec3d224730faf39/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/6473916bfef3784644ec746beb7b3b37/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/6473916bfef3784644ec746beb7b3b37/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/phania/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/aa9af0d72175833ba8c98b1361535c50/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/phania/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/aa9af0d72175833ba8c98b1361535c50/AndroidManifest.xml:2:3-17
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6c772f768247e0912b012c9c073d86d6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6c772f768247e0912b012c9c073d86d6/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/fdc0f27fe94e2235a4cebb915c535bce/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/fdc0f27fe94e2235a4cebb915c535bce/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/8dcbfd7f6a02af2f87d2ae919a5f1410/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/8dcbfd7f6a02af2f87d2ae919a5f1410/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/d2da56c7e1a0d99731a0e6a4be6bfe3f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/d2da56c7e1a0d99731a0e6a4be6bfe3f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/1da37d0b0520c957a71bf30c2be315ad/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/1da37d0b0520c957a71bf30c2be315ad/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6cf2a233f6742a8f1977b3e23cfe95a0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6cf2a233f6742a8f1977b3e23cfe95a0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/649c103ac28826d00cc6f4b896503d2e/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/649c103ac28826d00cc6f4b896503d2e/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/48a90c21034cadecafa7242ac6f338ea/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/48a90c21034cadecafa7242ac6f338ea/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/phania/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/e59ba09b19936a04d8114338a06cc117/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/phania/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/e59ba09b19936a04d8114338a06cc117/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:31:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74108e8096570d71f840de92c05abccf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74108e8096570d71f840de92c05abccf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cee524157b2a9c9c50543e0423d6ef15/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cee524157b2a9c9c50543e0423d6ef15/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/b2b7655c12ee29fed8492b16514c80e0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/b2b7655c12ee29fed8492b16514c80e0/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:11:7-33
+	android:theme
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.starterrpvtltd.starterr.MainActivity
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:25:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:26:7-30:17
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:26:16-89
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:27:9-29:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:28:11-72
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:28:19-69
+service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:31:7-35:17
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:31:16-90
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:32:9-34:25
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:33:11-74
+	android:name
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:33:19-71
+uses-sdk
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a58c99ba1728b03f47bda3b6a93ab13f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a58c99ba1728b03f47bda3b6a93ab13f/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/9d5bb98d0576e0b5a2e2ff938ee78248/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-config-16.1.2.aar/9d5bb98d0576e0b5a2e2ff938ee78248/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-invites:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.6.aar/4b017b1ac552231b1820be5a58174bd6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-invites:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-invites-16.0.6.aar/4b017b1ac552231b1820be5a58174bd6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/26657ad264e336c294ae5d33a0b27d43/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/26657ad264e336c294ae5d33a0b27d43/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/e5f367762fded85a2c9ea42c91667811/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/e5f367762fded85a2c9ea42c91667811/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/758dfaeac4a1c441c57bc9c96273ac0e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/758dfaeac4a1c441c57bc9c96273ac0e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/84f8c8606c2e2dfa1853cbe4d1d5e870/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-16.0.0.aar/84f8c8606c2e2dfa1853cbe4d1d5e870/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/d0591cfa7839d242cba9afec4d5be259/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-phenotype-16.0.0.aar/d0591cfa7839d242cba9afec4d5be259/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/72ea4d0d3ba72e8810e49217852f15e2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-ads-15.0.1.aar/72ea4d0d3ba72e8810e49217852f15e2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/0d2ae4a0c609ceb8f7c4c17ecc0f5398/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.4.aar/0d2ae4a0c609ceb8f7c4c17ecc0f5398/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/90a5b7df8c3f9b80d1228dd67bcc6ebc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-abt-16.0.1.aar/90a5b7df8c3f9b80d1228dd67bcc6ebc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f0ab53897a65f2615ec3d224730faf39/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f0ab53897a65f2615ec3d224730faf39/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:customtabs:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/cb8d52411a20da0cfee24587d72c34f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/cb8d52411a20da0cfee24587d72c34f2/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/43352bca782c2b8cf6edb478d969944e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/43352bca782c2b8cf6edb478d969944e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/81fd0c07f5bf22955408119846fd7fc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/81fd0c07f5bf22955408119846fd7fc8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a51db4568b2edf2fb0427e36bc89d9b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/a51db4568b2edf2fb0427e36bc89d9b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b69a2cb2d9b39532b4360e950ae0b758/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b69a2cb2d9b39532b4360e950ae0b758/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e5a80018c8f57fdd9d40926de4555ef3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e5a80018c8f57fdd9d40926de4555ef3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/620cc62034d90d40e9449cd482eaaa33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/620cc62034d90d40e9449cd482eaaa33/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/6473916bfef3784644ec746beb7b3b37/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/6473916bfef3784644ec746beb7b3b37/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/0eb7de2a109b7bc9f885c68468f4ca1b/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/0eb7de2a109b7bc9f885c68468f4ca1b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6c772f768247e0912b012c9c073d86d6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/6c772f768247e0912b012c9c073d86d6/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/888113ac76c01b5efa58d84a7994a1e4/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/888113ac76c01b5efa58d84a7994a1e4/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/fdc0f27fe94e2235a4cebb915c535bce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/fdc0f27fe94e2235a4cebb915c535bce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/8dcbfd7f6a02af2f87d2ae919a5f1410/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/8dcbfd7f6a02af2f87d2ae919a5f1410/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/d2da56c7e1a0d99731a0e6a4be6bfe3f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/d2da56c7e1a0d99731a0e6a4be6bfe3f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/1da37d0b0520c957a71bf30c2be315ad/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/1da37d0b0520c957a71bf30c2be315ad/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6cf2a233f6742a8f1977b3e23cfe95a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/6cf2a233f6742a8f1977b3e23cfe95a0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/862b66c4b1f4ff0c1d5a097230d56b3f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.1.aar/862b66c4b1f4ff0c1d5a097230d56b3f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/0115e7405ea729913c34d8cde4fe8dd6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.1.aar/0115e7405ea729913c34d8cde4fe8dd6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/649c103ac28826d00cc6f4b896503d2e/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.4.aar/649c103ac28826d00cc6f4b896503d2e/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/48a90c21034cadecafa7242ac6f338ea/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/answers-1.4.3.aar/48a90c21034cadecafa7242ac6f338ea/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/phania/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/e59ba09b19936a04d8114338a06cc117/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/phania/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/e59ba09b19936a04d8114338a06cc117/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:27:5-43
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e87c79e50f0b685b24f6d066bce106b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e87c79e50f0b685b24f6d066bce106b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cef90f94ecd5cdb8770fe717769e24de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/cef90f94ecd5cdb8770fe717769e24de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74108e8096570d71f840de92c05abccf/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74108e8096570d71f840de92c05abccf/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cee524157b2a9c9c50543e0423d6ef15/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cee524157b2a9c9c50543e0423d6ef15/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d3d09f5253a18378b25cb9fb0895f640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/d3d09f5253a18378b25cb9fb0895f640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ffe7ba1356ce77917418063827028a98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ffe7ba1356ce77917418063827028a98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a9260c3e955c0870485482dfe55ab03d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/a9260c3e955c0870485482dfe55ab03d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/64c36b5752c853a7a74e3d300f182738/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/64c36b5752c853a7a74e3d300f182738/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/258f02f76251474e5b1a8eafa850f9ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/258f02f76251474e5b1a8eafa850f9ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/b2b7655c12ee29fed8492b16514c80e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/b2b7655c12ee29fed8492b16514c80e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ac980f1b666bb9386e4d9169d962cafd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ac980f1b666bb9386e4d9169d962cafd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/75a69a73d228e4c8197d8c0c3d538ad3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/75a69a73d228e4c8197d8c0c3d538ad3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c4021abf2aa79f9873b7529655934cda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c4021abf2aa79f9873b7529655934cda/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a979cc8d2c2a366f01ef47a705ee2e49/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a979cc8d2c2a366f01ef47a705ee2e49/AndroidManifest.xml:20:5-44
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/888113ac76c01b5efa58d84a7994a1e4/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/26657ad264e336c294ae5d33a0b27d43/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/26657ad264e336c294ae5d33a0b27d43/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/0eb7de2a109b7bc9f885c68468f4ca1b/AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/grpc-android-1.16.1.aar/0eb7de2a109b7bc9f885c68468f4ca1b/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:13:22-76
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:34:9-38:19
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:34:9-38:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:37:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:23:5-98
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:23:22-95
+provider#com.google.firebase.perf.provider.FirebasePerfProvider
+ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:28:9-32:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:30:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:31:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.perf.component.FirebasePerfRegistrar
+ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:36:17-119
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-16.0.7.aar/81264846bc0de213ede73a7f600837ea/AndroidManifest.xml:32:27-73
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-16.1.5.aar/35b2d961e0f46f8556c2d5a9e2b1f4a3/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
+ADDED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:16.1.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-functions-16.1.3.aar/2ac8f8fb4f26ca505c78a831ad628089/AndroidManifest.xml:15:17-111
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.5.aar/0b2ae5e525a38ba64a2308853f0ad067/AndroidManifest.xml:15:17-111
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.4.aar/85abc7e75b136cda697b80bb2a407938/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/efb8ac22d7a8aa6f4de7152ed94b456d/AndroidManifest.xml:24:13-79
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.5.aar/93e7271a0fab0bfde0e2dcebcd5a0f31/AndroidManifest.xml:13:13-75
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:50:22-86
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74108e8096570d71f840de92c05abccf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cee524157b2a9c9c50543e0423d6ef15/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cee524157b2a9c9c50543e0423d6ef15/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74108e8096570d71f840de92c05abccf/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/74108e8096570d71f840de92c05abccf/AndroidManifest.xml:27:13-51
