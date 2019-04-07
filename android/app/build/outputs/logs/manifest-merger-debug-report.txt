@@ -1,12 +1,13 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12
 MERGED from [com.android.support:multidex:1.0.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a58c99ba1728b03f47bda3b6a93ab13f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:2:1-15:12
-MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-vector-icons] /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/725bcf62a862a508309f40fc70bb6891/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:17:1-41:12
@@ -74,27 +75,27 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phania/.gradle/caches/
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/75a69a73d228e4c8197d8c0c3d538ad3/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c4021abf2aa79f9873b7529655934cda/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a979cc8d2c2a366f01ef47a705ee2e49/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12
 	package
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:2:5-42
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:2:5-42
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:4:5-30
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:4:5-30
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:6:5-67
-MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:11:5-67
-MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:11:5-67
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-perf-16.2.3.aar/44a4574e575a31924c01361f1cce2e47/AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:24:5-67
@@ -128,17 +129,17 @@ MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/phania/.gradle/cach
 MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:29:5-67
 MERGED from [io.fabric.sdk.android:fabric:1.4.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/fabric-1.4.4.aar/80bcac0833936e3573b4df3c6fb41dcd/AndroidManifest.xml:29:5-67
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:6:22-64
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:11:5-78
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/725bcf62a862a508309f40fc70bb6891/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/725bcf62a862a508309f40fc70bb6891/AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:7:22-75
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:7:22-75
 application
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:9:5-36:19
-MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:13:5-20
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:9:5-36:19
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/725bcf62a862a508309f40fc70bb6891/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/725bcf62a862a508309f40fc70bb6891/AndroidManifest.xml:13:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:23:5-40:19
@@ -220,69 +221,71 @@ MERGED from [com.android.support:support-media-compat:26.1.0] /Users/phania/.gra
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/b2b7655c12ee29fed8492b16514c80e0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/b2b7655c12ee29fed8492b16514c80e0/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:12:7-39
 	android:icon
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:13:7-41
 	android:allowBackup
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:11:7-33
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:11:7-33
 	android:theme
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:14:7-38
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:10:7-38
 activity#com.starterrpvtltd.starterr.MainActivity
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:15:7-24:18
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:15:7-24:18
 	android:label
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:17:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:19:9-51
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:19:9-51
 	android:configChanges
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:18:9-79
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:18:9-79
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:16:9-37
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:16:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:20:9-23:25
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:20:9-23:25
 action#android.intent.action.MAIN
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:21:13-65
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:21:13-65
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:21:21-62
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:21:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:22:13-73
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:22:13-73
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:22:23-70
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:22:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:25:7-84
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:25:7-84
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:25:17-81
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:25:17-81
 service#io.invertase.firebase.messaging.RNFirebaseMessagingService
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:26:7-30:17
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:26:7-30:17
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:26:16-89
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:26:16-89
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:27:9-29:25
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:27:9-29:25
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:28:11-72
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:28:11-72
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:28:19-69
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:28:19-69
 service#io.invertase.firebase.messaging.RNFirebaseInstanceIdService
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:31:7-35:17
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:31:7-35:17
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:31:16-90
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:31:16-90
 intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:32:9-34:25
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:32:9-34:25
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:33:11-74
+ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:33:11-74
 	android:name
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:33:19-71
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:33:19-71
 uses-sdk
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
 MERGED from [com.android.support:multidex:1.0.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a58c99ba1728b03f47bda3b6a93ab13f/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/a58c99ba1728b03f47bda3b6a93ab13f/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/e6e05f7220dcba6f6ac3eec53830b184/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/phania/Documents/Projects/Starterr/starterr/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/725bcf62a862a508309f40fc70bb6891/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.0-rc.2] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-0.58.0-rc.2.aar/725bcf62a862a508309f40fc70bb6891/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/ce98229a5e491b811764b254c11a1abc/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:21:5-44
@@ -415,20 +418,20 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phania/.gradle/cache
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c4021abf2aa79f9873b7529655934cda/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a979cc8d2c2a366f01ef47a705ee2e49/AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a979cc8d2c2a366f01ef47a705ee2e49/AndroidManifest.xml:20:5-44
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/888113ac76c01b5efa58d84a7994a1e4/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:12:5-68
+ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:12:5-68
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.4.aar/c6bbcc480991fac6ff283cd7c8191f89/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.6.aar/8182be98beaf5f0ed7c2538d6da2e833/AndroidManifest.xml:25:5-68
@@ -438,9 +441,9 @@ MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/phania/.
 MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/f53bb36ecb1926e173517fe40ebb65f8/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:12:22-65
+		ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:12:22-65
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:13:5-79
+ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:13:5-79
 MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.5.aar/c08139480f5f263d7fa4c51d1f405ef0/AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-database-16.0.5.aar/26657ad264e336c294ae5d33a0b27d43/AndroidManifest.xml:22:5-79
@@ -460,7 +463,7 @@ MERGED from [io.grpc:grpc-android:1.16.1] /Users/phania/.gradle/caches/transform
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/660cca07eaa6be7871eede51b37a9aef/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/02ed68bf204fab05b59890b7009ba877/AndroidManifest.xml:13:22-76
+		ADDED from [:react-native-firebase] /Users/phania/.gradle/caches/transforms-1/files-1.1/react-native-firebase-release.aar/dccf1dc708cad0242f6d3fc868d586d0/AndroidManifest.xml:13:22-76
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.1.0.aar/d8716a93814ba2de599cd8b62c4ed124/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -732,11 +735,11 @@ ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transf
 	android:name
 		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/phania/.gradle/caches/transforms-1/files-1.1/ShortcutBadger-1.1.21.aar/6331974de8362c6f753586ec3b457b52/AndroidManifest.xml:50:22-86
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/phania/Documents/Projects/Starterr/starterr/android/app/src/main/AndroidManifest.xml:1:1-38:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.4.aar/05edf1c395b8577d5723ff95534edac5/AndroidManifest.xml:10:9-14:39
 	android:authorities

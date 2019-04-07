@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+            "outputFile": "/Users/phania/Documents/Projects/Starterr/starterr/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
             "map": [
                 {
                     "source": "/Users/phania/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.1.0.aar/d6bd65ac86b5bb82a5f02920ea1e5b6d/res/values-cs/values.xml",

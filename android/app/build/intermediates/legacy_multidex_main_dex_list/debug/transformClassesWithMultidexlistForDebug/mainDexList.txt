@@ -303,6 +303,7 @@ com/google/j2objc/annotations/RetainedWith.class
 com/google/j2objc/annotations/Weak.class
 com/google/j2objc/annotations/WeakOuter.class
 com/google/protobuf/ExperimentalApi.class
+com/oblador/vectoricons/VectorIconsPackage.class
 com/starterrpvtltd/starterr/BuildConfig.class
 com/starterrpvtltd/starterr/MainApplication$1.class
 com/starterrpvtltd/starterr/MainApplication.class

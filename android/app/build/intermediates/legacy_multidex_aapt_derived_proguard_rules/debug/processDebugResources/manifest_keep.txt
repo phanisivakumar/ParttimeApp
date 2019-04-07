@@ -1,2 +1,2 @@
-# Referenced at /Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43
+# Referenced at /Users/phania/Documents/Projects/Starterr/starterr/android/app/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:43
 -keep class com.starterrpvtltd.starterr.MainApplication { <init>(...); }

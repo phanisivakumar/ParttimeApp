@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Platform, Image, Text, View, ScrollView } from 'react-native';
-
+import { Card } from 'react-native-paper';
 import firebase from 'react-native-firebase';
 
 export default class App extends React.Component {
@@ -20,26 +20,28 @@ export default class App extends React.Component {
   render() {
     return (
       <ScrollView>
-        <View style={styles.container}>
-          <Image source={require('./assets/ReactNativeFirebase.png')} style={[styles.logo]}/>
-          <Text style={styles.welcome}>
-            Welcome to {'\n'} React Native Firebase
+      <View style={styles.container}>
+        
+         <Card style={{ height: 200, }}>
+          <View style={{ alignItems: 'center' }}>
+            <Image
+              source={{
+                uri:
+                  'https://aboutreact.com/wp-content/uploads/2018/11/logo192.png',
+              }}
+              style={{
+                width: 150,
+                height: 150,
+              }}
+            />
+            
+          </View>
+          <Text style={styles.paragraph}>
+            This is a simple example of Card using "react-native-paper" library
           </Text>
-          <Text style={styles.instructions}>
-            To get started, edit App.js
-          </Text>
-          {Platform.OS === 'ios' ? (
-            <Text style={styles.instructions}>
-              Press Cmd+R to reload,{'\n'}
-              Cmd+D or shake for dev menu
-            </Text>
-          ) : (
-            <Text style={styles.instructions}>
-              Double tap R on your keyboard to reload,{'\n'}
-              Cmd+M or shake for dev menu
-            </Text>
-          )}
-          <View style={styles.modules}>
+        </Card>
+       
+        <View style={styles.modules}>
             <Text style={styles.modulesHeader}>The following Firebase modules are pre-installed:</Text>
             {firebase.admob.nativeModuleExists && <Text style={styles.module}>admob()</Text>}
             {firebase.analytics.nativeModuleExists && <Text style={styles.module}>analytics()</Text>}
@@ -56,8 +58,9 @@ export default class App extends React.Component {
             {firebase.notifications.nativeModuleExists && <Text style={styles.module}>notifications()</Text>}
             {firebase.perf.nativeModuleExists && <Text style={styles.module}>perf()</Text>}
             {firebase.storage.nativeModuleExists && <Text style={styles.module}>storage()</Text>}
-          </View>
         </View>
+      </View>
+         
       </ScrollView>
     );
   }

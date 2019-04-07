@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/Users/phania/Documents/Projects/Starterr/starterr/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
                     "source": "/Users/phania/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/d8a3181b7ddf5b7ff3179193941cafe4/res/values-fr/values.xml",

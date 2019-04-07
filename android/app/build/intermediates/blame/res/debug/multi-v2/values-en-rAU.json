@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/Users/phania/Documents/Projects/Starterr/starterr/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "/Users/phania/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/64c36b5752c853a7a74e3d300f182738/res/values-en-rAU/values-en-rAU.xml",

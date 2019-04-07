@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/phania/Documents/Projects/Starterr/react-native-firebase-starter/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "/Users/phania/Documents/Projects/Starterr/starterr/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/phania/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/43352bca782c2b8cf6edb478d969944e/res/values-h720dp-v13/values-h720dp-v13.xml",
