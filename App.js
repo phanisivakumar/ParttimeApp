@@ -1,9 +1,12 @@
 import React from 'react';
 import { StyleSheet, Platform, Image, Text, View, ScrollView } from 'react-native';
 import { Card } from 'react-native-paper';
+// import MyAppBar from './src/AppBar';
 import firebase from 'react-native-firebase';
+import MyBottomNavigation from './src/BottomNavigation';
 
-export default class App extends React.Component {
+
+export default class PaperExample extends React.Component {
   constructor() {
     super();
     this.state = {};
@@ -19,9 +22,10 @@ export default class App extends React.Component {
 
   render() {
     return (
+      
+
       <ScrollView>
       <View style={styles.container}>
-        
          <Card style={{ height: 200, }}>
           <View style={{ alignItems: 'center' }}>
             <Image
@@ -40,7 +44,7 @@ export default class App extends React.Component {
             This is a simple example of Card using "react-native-paper" library
           </Text>
         </Card>
-       
+        <MyBottomNavigation />
         <View style={styles.modules}>
             <Text style={styles.modulesHeader}>The following Firebase modules are pre-installed:</Text>
             {firebase.admob.nativeModuleExists && <Text style={styles.module}>admob()</Text>}
@@ -59,8 +63,8 @@ export default class App extends React.Component {
             {firebase.perf.nativeModuleExists && <Text style={styles.module}>perf()</Text>}
             {firebase.storage.nativeModuleExists && <Text style={styles.module}>storage()</Text>}
         </View>
+        
       </View>
-         
       </ScrollView>
     );
   }
